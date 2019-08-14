@@ -19,7 +19,7 @@
   "dependencies": {
     "chalk": "^2.*",
     "lodash": "^4.*",
-    "applause": "^1.*",
+    "applause": "https://github.com/alkana/applause.git",
     "file-sync-cmp": "^0.1.*"
   },
   "devDependencies": {
